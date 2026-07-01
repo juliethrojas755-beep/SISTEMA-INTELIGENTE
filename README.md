@@ -88,7 +88,8 @@ Características aprendidas:
 
 Esta clase representa el comportamiento esperado durante una sesión de aprendizaje.
 
----
+![atento juanda](image.png)
+![atento ruben](image-3.png)
 
 ##  Clase 2 — Distraído
 
@@ -103,7 +104,8 @@ Características aprendidas:
 
 Esta categoría permite detectar momentos donde disminuye la concentración.
 
-
+![DISTRAIDO JUANDA](image-1.png)
+![distraido Ruben](image-4.png)
 
 ##  Clase 3 — Usando el celular
 
@@ -118,6 +120,8 @@ Características aprendidas:
 
 Esta clase resulta importante porque el uso del celular constituye una de las principales fuentes de distracción.
 
+![CELULAR JUANDA](image-2.png)
+![celular Ruben](image-5.png)
 
 
 # Dataset Utilizado
