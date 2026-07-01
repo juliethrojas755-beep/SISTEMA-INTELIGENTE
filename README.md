@@ -90,7 +90,7 @@ Esta clase representa el comportamiento esperado durante una sesión de aprendiz
 
 ![atento juanda](image.png)
 ![atento ruben](image-3.png)
-
+![atenta Julieth](image-6.png)
 ##  Clase 2 — Distraído
 
 Corresponde a un estudiante que no presta atención a la actividad.
@@ -106,6 +106,7 @@ Esta categoría permite detectar momentos donde disminuye la concentración.
 
 ![DISTRAIDO JUANDA](image-1.png)
 ![distraido Ruben](image-4.png)
+![Distraida Jullieth](image-7.png)
 
 ##  Clase 3 — Usando el celular
 
@@ -122,7 +123,7 @@ Esta clase resulta importante porque el uso del celular constituye una de las pr
 
 ![CELULAR JUANDA](image-2.png)
 ![celular Ruben](image-5.png)
-
+![Celular Julieth](image-8.png)
 
 # Dataset Utilizado
 
@@ -418,9 +419,10 @@ En conclusión, **la IA no entiende lo que ve; identifica patrones estadísticos
 
 - Julieth Tatiana Rojas
 - Ruben Santiago Carreno
+- Juan David Arias
 
 # Enlace 
 
-
+https://teachablemachine.withgoogle.com/models/m3GtNlwbR/
 
 
